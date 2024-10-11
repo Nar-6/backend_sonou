@@ -1,0 +1,182 @@
+.text-dark.mb-4 {
+  color: rgb(0,0,0);
+}
+
+.card-body.p-0.facture-form {
+  height: 1100px;
+}
+
+@media (min-width: 1200px) {
+  .card-body.p-0.facture-form {
+    height: 600px;
+  }
+}
+
+@media (min-width: 992px) {
+  .card-body.p-0.facture-form {
+    height: 800px;
+  }
+}
+
+.card-body.p-0.beneficiare {
+  height: 700px;
+}
+
+@media (min-width: 992px) {
+  .card-body.p-0.beneficiare {
+    height: 500px;
+  }
+}
+
+.card-body.p-0.pay-facture {
+}
+
+@media (min-width: 576px) {
+  .card-body.p-0.pay-facture {
+  }
+}
+
+.card-body.p-0.pay-avance {
+}
+
+@media (min-width: 992px) {
+  .card-body.p-0.pay-avance {
+  }
+}
+
+@media (min-width: 576px) {
+  .card-body.p-0.pay-avance {
+  }
+}
+
+@media (min-width: 992px) {
+  .card-body.p-0.versement-form {
+    max-height: 500px;
+  }
+}
+
+.card-body.p-0.versement-form {
+  height: 1000px;
+}
+
+@media (min-width: 300px) {
+  .card-body.p-0.versement-form {
+    height: 600px;
+  }
+}
+
+.card-body.p-0.approvisonnement-form {
+}
+
+@media (min-width: 1200px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.facture-form {
+    height: 600px;
+  }
+}
+
+@media (min-width: 300px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.versement-form {
+    height: 800px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.versement-form {
+    height: 800px;
+  }
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.versement-form {
+  height: 900px;
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.pay-avance {
+  height: 1500px;
+}
+
+@media (min-width: 576px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.pay-avance {
+    height: 1000px;
+  }
+}
+
+@media (min-width: 992px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.pay-avance {
+    height: 950px;
+  }
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.pay-facture {
+  height: 1500px;
+}
+
+@media (min-width: 576px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.pay-facture {
+    height: 1000px;
+  }
+}
+
+@media (min-width: 768px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.pay-facture {
+    height: 1000px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.pay-facture {
+    height: 900px;
+  }
+}
+
+@media (min-width: 576px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.approvisonnement-form {
+    height: 700px;
+  }
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.approvisonnement-form {
+  height: 800px;
+}
+
+@media (min-width: 1200px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.approvisonnement-form {
+    height: 700px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.correction {
+    height: 600px;
+  }
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.correction {
+  height: 900px;
+}
+
+@media (min-width: 576px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.correction {
+    height: 700px;
+  }
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.releve {
+  height: 900px;
+}
+
+@media (min-width: 768px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.correction-form {
+    height: 600px;
+  }
+}
+
+.card.shadow-lg.o-hidden.border-0.my-5.correction-form {
+  height: 900px;
+}
+
+@media (min-width: 768px) {
+  .card.shadow-lg.o-hidden.border-0.my-5.correction-form {
+    height: 600px;
+  }
+}
+
